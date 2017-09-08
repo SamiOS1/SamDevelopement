@@ -11,7 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    // Girya Bhokat ja
+    // Girya Bhokat ja Amolchya...
     
     var window: UIWindow?
 
